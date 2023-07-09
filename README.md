@@ -11,9 +11,9 @@ The Max Store Annual Report 2022 provides a comprehensive analysis of the sales 
 The repository is organized as follows:
 
 - `Raw_Dataset.xlsx`: This is the Raw Dataset of the Max Store Sales Data (2022) in XLSX format.
-- `Max Store Data Analysis.xlsx`: This is the Excel file that contains the Charts and the Final Interactive Dashboard along with different KPIs
-- - `Project_Visuals.zip`: This zip folder contains 
-the Visuals of all the Charts used and also the Final Dashboard- `reports/`: This folder contains the complete annual report in PDF format (`Max_Store_Annual_Report_2022.pdf`).
+- `Max Store Data Analysis.xlsx`: This is the Excel file that contains the Charts and the Final Interactive Dashboard along with different KPIs.
+- `Project_Visuals.zip`: This zip folder contains  the Visuals of all the Charts used and also the Final Dashboard.
+- `reports/`: This folder contains the complete annual report in PDF format (`Max_Store_Annual_Report_2022.pdf`).
 
 ## Data Cleaning
 
