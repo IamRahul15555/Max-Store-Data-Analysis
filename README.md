@@ -10,9 +10,10 @@ The Max Store Annual Report 2022 provides a comprehensive analysis of the sales 
 
 The repository is organized as follows:
 
-- `data/`: This folder contains the cleaned sales data file in CSV format.
-- `notebooks/`: This folder contains the Jupyter Notebook file (`data_analysis.ipynb`) with the data cleaning, processing, and analysis steps.
-- `reports/`: This folder contains the complete annual report in PDF format (`Max_Store_Annual_Report_2022.pdf`).
+- `Raw_Dataset.xlsx`: This is the Raw Dataset of the Max Store Sales Data (2022) in XLSX format.
+- `Max Store Data Analysis.xlsx`: This is the Excel file that contains the Charts and the Final Interactive Dashboard along with different KPIs
+- - `Project_Visuals.zip`: This zip folder contains 
+the Visuals of all the Charts used and also the Final Dashboard- `reports/`: This folder contains the complete annual report in PDF format (`Max_Store_Annual_Report_2022.pdf`).
 
 ## Data Cleaning
 
@@ -20,11 +21,11 @@ The sales data provided by Max Store underwent a thorough data cleaning process 
 
 ## Data Processing
 
-To facilitate further analysis, two new columns were added to the dataset, providing additional insights into customer behavior and preferences. These columns were instrumental in deriving meaningful conclusions from the data.
+Two new columns were added to the dataset to facilitate further analysis, providing additional insights into customer behavior and preferences. These columns were instrumental in deriving meaningful conclusions from the data.
 
 ## Data Analysis
 
-The analysis involved the construction of six pivot tables, focusing on various aspects of customer behavior and purchase patterns. These pivot tables allowed for a deeper understanding of sales performance, customer demographics, and market trends. Additionally, six pivot charts were created to visually represent the key findings and trends identified in the analysis.
+The analysis involved the construction of six pivot tables, focusing on various aspects of customer behavior and purchase patterns. These pivot tables allowed a deeper understanding of sales performance, customer demographics, and market trends. Additionally, six pivot charts were created to visually represent the key findings and trends identified in the analysis.
 
 ## Key Insights
 
