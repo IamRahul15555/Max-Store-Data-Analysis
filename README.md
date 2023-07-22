@@ -23,7 +23,7 @@ The repository is organized as follows:
 - `Raw_Dataset.xlsx`:This file contains the raw dataset of the Max Store Sales Data for the year 2022 in XLSX format.
 - `Max Store Data Analysis.xlsx`: This file includes the data analysis and visualizations. It contains the charts, the final interactive dashboard, and the key findings and insights derived from the data.
 - `Project_Visuals.zip`: This zip folder contains all the visuals used in the report, including individual charts and the final interactive dashboard.
-- `reports/`: This folder contains the complete annual report in PDF format:
+- `ReportsR`: This file contains the complete Professional report in PDF format:
 
 
 
