@@ -11,7 +11,7 @@ The analysis seeks to answer the following Client questions based on the data pr
 * Compare Sales and Orders: Use a single chart to compare sales and order data.
 * Gender Comparison: Determine whether men or women made more purchases in 2022.
 * Order Status: Identify the different order statuses in 2022.
-* Top Sales-Contributing States: List the top 10 states contributing to the sales.
+* Top Sales-Contributing States: List the top 5 states contributing to the sales.
 * Age and Gender Relation: Analyze the relation between age and gender based on the number of orders.
 * Sales Channel Contribution: Determine which sales channel contributed the most to sales.
 
